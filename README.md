@@ -11,5 +11,5 @@ A website that offers fitness training services.
 https://telacaul.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Tela Caul
 
