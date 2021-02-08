@@ -8,8 +8,8 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://telacaul.github.io/run-buddy/
+https:/telacaul.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Tela Caul
+Made with ❤️ by Tela A. Caul
 
